@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debajyoti-patra&label=Profile%20views&color=0e75b6&style=flat" alt="debajyoti-patra" /> </p>
 
-- 🌱 I’m currently learning **Firebase, Node.js**
+- 🌱 I’m currently learning **React, Node.js**
 
 - 📫 How to reach me **debajyotipatra10@gmail.com**
 
